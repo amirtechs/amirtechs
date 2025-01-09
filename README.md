@@ -28,7 +28,7 @@
 </div>
 
 <br>
-<div align="center">
+<div>
 
 ```typescript
 const amir: tester = {
