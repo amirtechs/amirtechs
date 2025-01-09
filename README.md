@@ -22,3 +22,29 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=amirtechs&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
+
+<br>
+<div>
+
+```typescript
+const amir: tester = {
+  name: "Amir",
+  nickname: "amirtechs",
+  title: "qa Engineer",
+  company: "paywatch malaysia sdn bhd",
+  experience: "4 years",
+  location: "malaysia 🇲🇾",
+  testing: {
+    types: ["functional", "exploratory", "regression", "integration", "performance"],
+    platforms: ["api", "mobile", "web"],
+    tools: ["postman", "vs code"],
+    plans: ["azure devOps", "jira"],
+    frameworks: ["maven", "junit", "testng", "jest", "selenium", "playwright", "appium"],
+    database: ["postgresql, mongoDB, cosmosdb"]
+    languages: ["java", "javascript", "typescript", "php"]
+  },
+  interests: ["music", "coding", "exploring", "adventure", "app"],
+  debuggingTechnique: 'console.log('test')',
+};
+```
+</div>
