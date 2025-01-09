@@ -90,3 +90,5 @@ try {
   console.log('Error: Bug not yet fix. Go sleep!');
 }
 ```
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
