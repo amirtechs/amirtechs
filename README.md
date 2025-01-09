@@ -23,8 +23,12 @@
   <img src="https://komarev.com/ghpvc/?username=amirtechs&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
+<div align="center">
+  <h2>🧑🏼‍💻 Console.log ("My Profile")</h2>
+</div>
+
 <br>
-<div>
+<div align="center">
 
 ```typescript
 const amir: tester = {
@@ -40,11 +44,21 @@ const amir: tester = {
     tools: ["postman", "vs code"],
     plans: ["azure devOps", "jira"],
     frameworks: ["maven", "junit", "testng", "jest", "selenium", "playwright", "appium"],
-    database: ["postgresql, mongoDB, cosmosdb"]
+    database: ["postgresql, mongoDB, cosmosdb"],
     languages: ["java", "javascript", "typescript", "php"]
   },
   interests: ["music", "coding", "exploring", "adventure", "app"],
   debuggingTechnique: 'console.log('test')',
 };
 ```
+</div>
+</br>
+
+<div>
+  <p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=postman,vscode,postgres,azure,maven,selenium,jest" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,java,javascript,typescript,php" />
+  </a>
+</p>
 </div>
