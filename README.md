@@ -56,12 +56,10 @@ const amir: tester = {
 
 <div>
   <p align="center">
-  <a>
     <img src="https://skillicons.dev/icons?i=postman,vscode,postgres,azure,maven,selenium,jest"/>
-    </a>
-    <a>
+    </p>
+    <p align="center">
     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,java,javascript,typescript,php"/>
-  </a>
 </p>
 </div>
 
