@@ -62,3 +62,31 @@ const amir: tester = {
   </a>
 </p>
 </div>
+
+<div align="center">
+  <h2>🎯 console.log('Current Status')</h2>
+</div>
+
+```javascript
+// My daily routine
+try {
+  const coffee = await fetch('coffee-machine');
+  if (!coffee.ok) throw new Error('Need more coffee ☕');
+  
+  await Promise.all([
+    openSprintBoard(),
+    checkAssignedTicket(),
+    doTestDocumentation(),
+    askAIForHelp(),
+    proceedTesting(),
+    createBugTicket(),
+    reTest(),
+    doAutomation(),
+    completed(),
+    goSleep()
+  ]);
+  
+} catch (error) {
+  console.log('Error: Bug not yet fix. Go sleep!');
+}
+```
