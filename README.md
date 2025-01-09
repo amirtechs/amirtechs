@@ -57,8 +57,10 @@ const amir: tester = {
 <div>
   <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=postman,vscode,postgres,azure,maven,selenium,jest" />
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,java,javascript,typescript,php" />
+    <img src="https://skillicons.dev/icons?i=postman,vscode,postgres,azure,maven,selenium,jest"/>
+    </a>
+    <a>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,java,javascript,typescript,php"/>
   </a>
 </p>
 </div>
