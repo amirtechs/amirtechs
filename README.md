@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Bug+detective+🕵;Ctrl%2BC+%2B+Ctrl%2BV+Specialist;Automation+Tester;Debug+champion+%F0%9F%8F%86" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Bug+Detective+Specialist+%F0%9F%95%B5;Automation+Tester;Debug+Champion" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
