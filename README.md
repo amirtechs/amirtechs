@@ -32,10 +32,11 @@
 
 ```typescript
 const amir: tester = {
-  name: "Amir",
+  name: "amir",
   nickname: "amirtechs",
-  title: "qa Engineer",
+  title: "qa engineer",
   company: "paywatch malaysia sdn bhd",
+  prev_company: "limkokwing university, setel ventures sdn bhd",
   experience: "5 years",
   location: "malaysia 🇲🇾",
   testing: {
