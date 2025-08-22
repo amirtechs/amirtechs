@@ -36,7 +36,7 @@ const amir: tester = {
   nickname: "amirtechs",
   title: "qa Engineer",
   company: "paywatch malaysia sdn bhd",
-  experience: "4 years",
+  experience: "5 years",
   location: "malaysia 🇲🇾",
   testing: {
     types: ["functional", "exploratory", "regression", "integration", "performance"],
